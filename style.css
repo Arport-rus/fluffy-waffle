@@ -100,7 +100,7 @@ h3{
         padding-right: 10%;
     }
 }
-@media (width:400px){
+@media (max-width:400px){
   .NAV{
     font-size:0.9em;
   }
@@ -789,11 +789,11 @@ footer{
   align-items: end; /* Прижимает к низу */
   max-width: 100%;
 }
-@media (max-aspect-ratio: 1/1)
-{
+@media (max-aspect-ratio: 1/1){
     .footer_puppy
     {
     justify-content: center;
     }
 
 }
+
