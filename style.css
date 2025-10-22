@@ -100,6 +100,11 @@ h3{
         padding-right: 10%;
     }
 }
+@media (width:400px){
+  .NAV{
+    font-size:0.9em;
+  }
+}
 a{
    text-decoration: none;
    color:#F1CDB3;
@@ -790,4 +795,5 @@ footer{
     {
     justify-content: center;
     }
+
 }
