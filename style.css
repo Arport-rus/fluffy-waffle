@@ -100,7 +100,7 @@ h3{
         padding-right: 10%;
     }
 }
-@media (max-width:400px){
+@media (max-width: 400px){
   .NAV{
     font-size:0.9em;
   }
@@ -796,4 +796,5 @@ footer{
     }
 
 }
+
 
