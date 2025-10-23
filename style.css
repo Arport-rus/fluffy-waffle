@@ -103,6 +103,7 @@ h3{
 @media (max-width: 400px){
   .NAV{
     font-size:0.9em;
+    padding-left:0;
   }
 }
 a{
@@ -796,5 +797,6 @@ footer{
     }
 
 }
+
 
 
